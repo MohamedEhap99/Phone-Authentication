@@ -1,0 +1,27 @@
+{
+    "welcome": "أهلا وسهلا",
+    "home": "الرئيسية",
+    "contacts": "جهات الاتصال",
+    "settings": "الإعدادات",
+    "analytics": "تحليلات",
+
+    "plan": "خطة",
+    "freemuim": "Freemuim",
+    "account": "الحساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "delete_acc": "حذف حسابي",
+    "app_settings": "إعدادات التطبيق",
+    "lang": "اللغة",
+    "notifications": "الإخطارات",
+    "contacs": "Contacs",
+    "aync_contacts": "Sync Contacs",
+    "others": "Others",
+    "permissions": "Permissions",
+    "contactus": "الاتصال بالدعم",
+    "feedback": "إرسال تعليقات",
+    "review_on_store": "Leave Review",
+    "choose_lang": "اختر اللغة",
+    "arabic": "العربية",
+    "english": "الإنجليزية"
+}

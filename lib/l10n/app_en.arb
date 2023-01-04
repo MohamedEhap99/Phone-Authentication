@@ -1,0 +1,35 @@
+{
+    "welcome": "Welcome!",
+    "@welcome": {
+      "description": "Greeting for every new app user!"
+    },
+    "home": "Home",
+    "contacts": "Contacts",
+    "settings": "Settings",
+    "analytics": "Analytics",
+
+
+    "plan": "Plan",
+    "freemuim": "Freemuim",
+    "account": "Account",
+    "email": "Email",
+    "password": "Password",
+    "delete_acc": "Delete My account",
+    "app_settings": "App settings",
+    "lang": "Language",
+    "notifications": "Notifications",
+    "contacs": "Contacs",
+    "aync_contacts": "Sync Contacs",
+    "others": "Others",
+    "permissions": "Permissions",
+    "contactus": "Contact support",
+    "feedback": "Send Feedback",
+    "review_on_store": "Leave Review",
+    "choose_lang": "Choose language",
+    "arabic": "Arabic",
+    "english": "English"
+
+
+
+
+}
